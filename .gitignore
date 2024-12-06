@@ -1,0 +1,7 @@
+# Ignore system files
+Thumbs.db
+Desktop.ini
+*.log
+
+# Ignore application data directories
+AppData/
